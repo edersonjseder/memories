@@ -1,7 +1,7 @@
 import express from "express";
 import bodyParser from "body-parser";
 import cors from "cors";
-import dotenv from "dotenv";
+// import dotenv from "dotenv";
 import connectDB from "./config/database.js";
 import path from "path";
 
